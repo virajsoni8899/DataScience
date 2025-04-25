@@ -2,25 +2,20 @@
 
 This project dives into analyzing Instagram video performance using a dataset of over 13,000 videos. The aim is to identify factors influencing reach, engagement, and visibility — ultimately guiding better content strategy decisions for creators and marketers.
 
-## 📁 Project Structure
+ 📁 Project Structure
 
 
-## 💡 Objective
+ 💡 Objective
 
 To explore how variables like hashtags, duration, tags, and timing affect video performance (views, comments, shares) using SQL and Power BI.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+ 🛠️ Tools & Technologies Used
 
-- **SQL (MySQL)**: For data wrangling and deep querying
-- **Power BI**: For dashboard creation and data visualization
-- **Excel**: For summary reporting and insight tracking
-- **Python (optional)**: For any initial preprocessing (if used)
+- **SQL (MySQL)**: For data wrangling and deep queryin
 
----
-
-## ❓ Key Questions Answered
+ ❓ Key Questions Answered
 
 - Which videos received the highest views and why?
 - Does video duration correlate with performance?
@@ -30,38 +25,27 @@ To explore how variables like hashtags, duration, tags, and timing affect video 
 
 ---
 
-## 🧠 Insights Highlights
+ 🧠 Insights Highlights
 
 - **Tags vs. Performance**: Videos with 8–12 tags performed better on average.
 - **Optimal Video Length**: Videos between 25–40 seconds gained more traction.
 - **Engagement Timing**: Early morning (8 AM–10 AM) had higher interaction rates.
 - **View vs. Comments Correlation**: A strong positive trend was observed.
 
-(You can modify this section based on your actual findings.)
-
----
-
-## 📸 Dashboard Preview
-
-> Add a screenshot of your Power BI dashboard here:
-
----
-
-## 📄 SQL Queries
+ 📄 SQL Queries
 
 All the SQL queries used to answer business questions are available in:
 - [`instagram_analysis_queries.sql`](./instagram_analysis_queries.sql)
 
 Each query is well-documented with comments to ensure clarity.
 
----
 
-## 📬 Contact
+📬 Contact
 
 Made with 💻 by **Viraj Soni**  
 📧 virajsoni191@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/viraj-soni)
 
----
+
 
 ⭐ *If you like this project, feel free to star the repository or connect on LinkedIn!*
